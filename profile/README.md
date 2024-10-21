@@ -4,31 +4,31 @@
 
 Welcome to the GitHub organization of **Vantage Financial Corporation** (formerly eBusiness Services, Inc.), a leading financial services provider in the Philippines. Our core service is **Western Union Money Transfer**, but we also offer **ticketing services**, **eLoad**, and **Bayad Center bills payment services**. With **150+ branches** and a network of **1,400+ locations** nationwide, Vantage Financial is committed to delivering secure, efficient, and innovative financial solutions.
 
-This GitHub organization is designed to serve as the central hub for all of the ICT and Data Science projects. Whether you're a new hire or a seasoned developer, this repository collection will familiarize you with our ongoing projects, standards, and the technologies we use to drive innovation and maintain our competitive edge.
+This organization was created and is maintained by the **IT Systems and Methods Department** to serve as the central hub for all **ICT** and **Data Science** projects. Whether you're a new hire or a seasoned developer, this repository collection will familiarize you with our department's ongoing projects, standards, and the technologies we utilize to drive innovation and support Vantage Financial Corporation's mission of providing secure, efficient, and cutting-edge financial solutions.
 
 ## 📂 Key Repositories
 
 Below are the primary repositories within this organization. Each repository plays a critical role in advancing our capabilities and services.
 
-### 1. 🚀 [vfc_performance_appraisal](https://github.com/vfc_performance_appraisal)
+### 1. 🚀 [vfc_performance_appraisal](https://github.com/VFC-DataScienceTeam/vfc_performance_appraisal)
 This project is focused on analyzing branch performance to generate insights for **performance appraisals**. It helps evaluate the productivity and effectiveness of each branch based on key metrics and benchmarks.
 
-### 2. 🔐 [vantage_phishing](https://github.com/vantage_phishing)
+### 2. 🔐 [vantage_phishing](https://github.com/VFC-DataScienceTeam/vantage_phishing)
 This repository contains tools and analysis for the **phishing simulation** conducted by the ICT department. It tracks which employees and departments opened phishing emails, clicked on malicious links, and submitted sensitive data, helping to enhance our cybersecurity measures.
 
-### 3. 🌐 [vfc_web_search_history](https://github.com/vfc_web_search_history)
+### 3. 🌐 [vfc_web_search_history](https://github.com/VFC-DataScienceTeam/vfc_web_search_history)
 This project tracks and analyzes the **web search history** of VFC branches to categorize website visits during work hours into productive, neutral, or non-productive use, providing actionable insights for improving employee efficiency.
 
-### 4. ⚙️ [zabbix_downtimes](https://github.com/zabbix_downtimes)
+### 4. ⚙️ [zabbix_downtimes](https://github.com/VFC-DataScienceTeam/zabbix_downtimes)
 This repository contains the analysis of **downtime events** across different VFC branches and host groups (VISMIN, Metro Manila, South Luzon, North Luzon East, and West). The goal is to understand patterns in downtime and provide recommendations for minimizing operational disruptions.
 
-### 5. 🧑‍💻 [customer_db_integration](https://github.com/customer_db_integration)
+### 5. 🧑‍💻 [customer_db_integration](https://github.com/VFC-DataScienceTeam/customer_db_integration)
 This project focuses on integrating **historical customer data** from two legacy systems (eCore and Voyager) from 2018-2023. It deduplicates records to create a **single, unique customer database** for profiling, insights, and future use in API development for real-time transaction validation.
 
-### 6. 📚 [ds_guides](https://github.com/ds_guides)
+### 6. 📚 [ds_guides](https://github.com/VFC-DataScienceTeam/ds_guides)
 This repository serves as the go-to resource for all things related to **data science project flow** within the organization. It contains Python cheatsheets, project guides, conventions for notebooks, and tips for crafting effective commit messages, ensuring consistency across all data science initiatives.
 
-### 7. 🏗️ [ds_project_template](https://github.com/ds_project_template)
+### 7. 🏗️ [ds_project_template](https://github.com/VFC-DataScienceTeam/ds_project_template)
 This is the **cookie-cutter Data Science template** that standardizes how we structure and kick off data science projects. It includes pre-configured project folders and files that follow best practices, ensuring that every new project starts off on the right foot.
 
 ---
