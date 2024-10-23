@@ -28,9 +28,6 @@ This project focuses on integrating **historical customer data** from two legacy
 ### 6. 📚 [ds_guides](https://github.com/VFC-DataScienceTeam/ds_guides)
 This repository serves as the go-to resource for all things related to **data science project flow** within the organization. It contains Python cheatsheets, project guides, conventions for notebooks, and tips for crafting effective commit messages, ensuring consistency across all data science initiatives.
 
-### 7. 🏗️ [ds_project_template](https://github.com/VFC-DataScienceTeam/ds_project_template)
-This is the **cookie-cutter Data Science template** that standardizes how we structure and kick off data science projects. It includes pre-configured project folders and files that follow best practices, ensuring that every new project starts off on the right foot.
-
 ---
 
 ## 🔧 Contributing Guidelines
