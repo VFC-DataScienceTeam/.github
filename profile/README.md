@@ -28,6 +28,10 @@ This project focuses on integrating **historical customer data** from two legacy
 ### 6. 📚 [ds_guides](https://github.com/VFC-DataScienceTeam/ds_guides)
 This repository serves as the go-to resource for all things related to **data science project flow** within the organization. It contains Python cheatsheets, project guides, conventions for notebooks, and tips for crafting effective commit messages, ensuring consistency across all data science initiatives.
 
+### 7. 📚 [vfc-project-template](https://github.com/VFC-DataScienceTeam/vfc-project-template)
+This repository will serve as a template for existing and upcoming projects assigned to the Data Scientists of Vantage Financial Corp.
+
+
 ---
 
 ## 🔧 Contributing Guidelines
