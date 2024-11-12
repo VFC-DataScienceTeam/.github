@@ -1,4 +1,7 @@
-![eBiz Logo](./ebiz_logo.png)
+<div align="center">
+    <img src="./ebiz_logo.png" alt="eBiz Logo">
+</div>
+
 
 # 👋 Welcome to Vantage Financial Corporation GitHub Organization
 
