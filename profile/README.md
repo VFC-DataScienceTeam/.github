@@ -28,7 +28,7 @@ This project automates the V380 application used by the Head Office to monitor b
 ### 5. 📈 [vfc_web_search_history](https://github.com/VFC-DataScienceTeam/vfc_web_search_history)
 This project tracks and categorizes web search history at VFC branches, analyzing site visits during work hours to identify productive, neutral, or non-productive usage, ultimately improving employee efficiency.
 
-### 6. ⚙️ [vfc-zabbix-monitoring](https://github.com/VFC-DataScienceTeam/zabbix_downtimes)
+### 6. ⚙️ [vfc-zabbix-monitoring](https://github.com/VFC-DataScienceTeam/vfc-zabbix-monitoring)
 This repository contains the analysis of **downtime events** across different VFC branches and host groups (VISMIN, Metro Manila, South Luzon, North Luzon East, and West). The goal is to understand patterns in downtime and provide recommendations for minimizing operational disruptions.
 
 ### 7. 🧑‍💻 [customer_db_integration](https://github.com/VFC-DataScienceTeam/customer_db_integration)
