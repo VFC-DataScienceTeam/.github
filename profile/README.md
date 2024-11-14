@@ -13,31 +13,34 @@ This organization was created and is maintained by the **IT Systems and Methods 
 
 Below are the primary repositories within this organization. Each repository plays a critical role in advancing our capabilities and services.
 
-### 1. 🚀 [vfc_performance_appraisal](https://github.com/VFC-DataScienceTeam/vfc_performance_appraisal)
+### 1. 🪢 [vfc-deduping-api](https://github.com/AHLEKS-VFC/vfc-deduping-api)
+The Customer Deduplication API is a scalable and secure solution designed to identify and manage duplicate customer records for Vantage Financial Corp. Using FastAPI and SQL Server, this API leverages fuzzy matching algorithms to calculate similarity scores based on customer attributes like name, date of birth, and mobile number. By providing the top 10 most relevant matches for any customer query, this API streamlines data consistency across thousands of branches, reducing redundancy and enhancing data integrity. The project is deployed on AWS, ensuring robustness and scalability for high-demand environments, with a clear focus on security and operational efficiency.
+
+### 2 🚀 [vfc_performance_appraisal](https://github.com/VFC-DataScienceTeam/vfc_performance_appraisal)
 This project is focused on analyzing branch performance to generate insights for **performance appraisals**. It helps evaluate the productivity and effectiveness of each branch based on key metrics and benchmarks.
 
-### 2. 🔐 [vfc-phishing-campaign](https://github.com/VFC-DataScienceTeam/vfc-phishing-campaign)
+### 3. [vfc-phishing-campaign](https://github.com/VFC-DataScienceTeam/vfc-phishing-campaign)
 This repository contains tools and analysis for the **phishing simulation** conducted by the ICT department. It tracks which employees and departments opened phishing emails, clicked on malicious links, and submitted sensitive data, helping to enhance our cybersecurity measures.
 
-### 3. 🌐 [vfc-pemi-logs](https://github.com/VFC-DataScienceTeam/vfc-pemi-logs)
+### 4. [vfc-pemi-logs](https://github.com/VFC-DataScienceTeam/vfc-pemi-logs)
 This project analyzes access logs from the PEMI website, identifying attack patterns and providing insights on how to mitigate them for improved web security.
 
-### 4. 🛠️ [vfc-v380-automation](https://github.com/VFC-DataScienceTeam/vfc-v380-automation)
+### 5. 🛠️ [vfc-v380-automation](https://github.com/VFC-DataScienceTeam/vfc-v380-automation)
 This project automates the V380 application used by the Head Office to monitor branch footages, streamlining the process of video review and oversight.
 
-### 5. 📈 [vfc_web_search_history](https://github.com/VFC-DataScienceTeam/vfc_web_search_history)
+### 6. 📈 [vfc_web_search_history](https://github.com/VFC-DataScienceTeam/vfc_web_search_history)
 This project tracks and categorizes web search history at VFC branches, analyzing site visits during work hours to identify productive, neutral, or non-productive usage, ultimately improving employee efficiency.
 
-### 6. ⚙️ [vfc-zabbix-monitoring](https://github.com/VFC-DataScienceTeam/vfc-zabbix-monitoring)
+### 7. ⚙️ [vfc-zabbix-monitoring](https://github.com/VFC-DataScienceTeam/vfc-zabbix-monitoring)
 This repository contains the analysis of **downtime events** across different VFC branches and host groups (VISMIN, Metro Manila, South Luzon, North Luzon East, and West). The goal is to understand patterns in downtime and provide recommendations for minimizing operational disruptions.
 
-### 7. 🧑‍💻 [customer_db_integration](https://github.com/VFC-DataScienceTeam/customer_db_integration)
+### 8. 🧑‍💻 [customer_db_integration](https://github.com/VFC-DataScienceTeam/customer_db_integration)
 This project focuses on integrating **historical customer data** from two legacy systems (eCore and Voyager) from 2018-2023. It deduplicates records to create a **single, unique customer database** for profiling, insights, and future use in API development for real-time transaction validation.
 
-### 8. 📚 [vfc-ds-guides](https://github.com/VFC-DataScienceTeam/ds_guides)
+### 9. 📚 [vfc-ds-guides](https://github.com/VFC-DataScienceTeam/ds_guides)
 This repository serves as the go-to resource for all things related to **data science project flow** within the organization. It contains Python cheatsheets, project guides, conventions for notebooks, and tips for crafting effective commit messages, ensuring consistency across all data science initiatives.
 
-### 9. 📚 [vfc-project-template](https://github.com/VFC-DataScienceTeam/vfc-project-template)
+### 10. 📚 [vfc-project-template](https://github.com/VFC-DataScienceTeam/vfc-project-template)
 This repository will serve as a template for existing and upcoming projects assigned to the Data Scientists of Vantage Financial Corp.
 
 
